@@ -1,0 +1,1 @@
+const fastOk = () => Promise.resolve("OK");
